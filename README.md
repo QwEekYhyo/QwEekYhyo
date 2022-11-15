@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Has+been+developping+for+seven+years;Specialized+in+Python+the+holy+language;Wants+to+commit+murder+on+romch007)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sono&weight=300&pause=400&color=3A78F7&center=true&width=500&lines=Has+been+developping+for+seven+years;Specialized+in+Python+the+holy+language;Wants+to+commit+murder+on+romch007)](https://git.io/typing-svg)
 
 ## Hi there 👋
 add me on snapchat if you're a single girl between 8-35 years old : @qweekaulait
