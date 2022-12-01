@@ -3,7 +3,7 @@
 ## Hi there 👋
 add me on snapchat if you're a single girl between 8-35 years old : @qweekaulait
 
-![QwEekYhyo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QwEekYhyo&layout=compact&theme=gruvbox)
+![QwEekYhyo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QwEekYhyo&layout=compact&theme=noctis_minimus&langs_count=10&include_orgs=true)
 
 ![Codewars](https://www.codewars.com/users/QwEekYhyo/badges/large)
 <!--
