@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sono&weight=300&pause=400&color=3A78F7&center=true&width=500&lines=Has+been+developping+for+twenty+years;Specialized+in+Python+the+holy+language;Wants+to+commit+murder+on+romch007)](https://git.io/typing-svg)
 
 ## Hi there 👋
-add me on snapchat if you're a single girl between 8-35 years old : @qweekaulait \
+Could you please help me to figure out how to center a div ? \
 Here are the languages I use :
 
 ![](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white)
