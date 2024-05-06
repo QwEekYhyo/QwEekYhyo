@@ -12,6 +12,7 @@ Here are the languages I use :
 ![](https://img.shields.io/badge/-OpenJDK-FFFFFF?logo=openjdk&logoColor=black)
 ![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 
 Here is what I code on :
 ![](https://img.shields.io/badge/-Arch-1793D1?logo=archlinux&logoColor=white)
