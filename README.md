@@ -4,14 +4,14 @@
 Could you please help me to figure out how to center a div ? \
 Here are the languages I use :
 
-![](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/-OpenJDK-FFFFFF?logo=openjdk&logoColor=black)
+![](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![](https://img.shields.io/badge/-OpenJDK-FFFFFF?logo=openjdk&logoColor=black)
 ![](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 
 Here is what I code on :
