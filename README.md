@@ -8,11 +8,13 @@ Here are the languages I use :
 ![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![](https://img.shields.io/badge/-OpenJDK-FFFFFF?logo=openjdk&logoColor=black)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ![](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
 Here is what I code on :
 ![](https://img.shields.io/badge/-Arch-1793D1?logo=archlinux&logoColor=white)
