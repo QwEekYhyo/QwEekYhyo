@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sono&weight=300&pause=400&color=3A78F7&center=true&width=500&lines=Has+been+developping+for+twenty+years;Specialized+in+Python+the+holy+language;Wants+to+commit+murder+on+romch007)](https://git.io/typing-svg)
 
 ## Hi there 👋
-Could you please help me to figure out how to center a div ? \
-Here are the languages I use :
+Could you please help me to figure out how to center a div? \
+Here are the languages I use:
 
 ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
