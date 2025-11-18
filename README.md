@@ -21,7 +21,7 @@ Here is what I code on :
 ![](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white)
 
 ## Some stats
-![QwEekYhyo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QwEekYhyo&layout=compact&theme=noctis_minimus&langs_count=10&include_orgs=true)
+![QwEekYhyo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QwEekYhyo&layout=compact&exclude_repo=dwm,st&theme=noctis_minimus&langs_count=10&include_orgs=true)
 
 ![Codewars](https://www.codewars.com/users/QwEekYhyo/badges/large)
 <!--
